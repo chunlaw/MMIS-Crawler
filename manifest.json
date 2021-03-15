@@ -7,9 +7,6 @@
     "service_worker": "background.js"
   },
   "permissions": [
-    "storage", 
-    "activeTab", 
-    "scripting",
     "webRequest",
     "tabs"
   ],
